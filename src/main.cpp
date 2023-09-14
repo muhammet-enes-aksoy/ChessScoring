@@ -9,7 +9,7 @@ int main() {
     string fileName;
 
     // Kullanıcıdan dosya ismini isteyen bir mesaj gösterilir.
-    cout << "Dosya ismi giriniz. (Örnek: board1.txt)" << endl;
+    cout << "Dosya ismi giriniz. (Ornek: board1.txt)" << endl;
 
     // Kullanıcının dosya ismini girmesi beklenir.
     cin >> fileName;
